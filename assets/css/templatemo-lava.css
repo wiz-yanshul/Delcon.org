@@ -926,13 +926,12 @@ marquee .m4i{
   font-size: 22px;
   color: #1e1e1e;
   margin-bottom: 25px;
-  
 }
 
 .features-item .main-button {
-  margin-top: 35px;
+  /* margin-top: 35px; */
   display: inline-block;
-  width:20rem;
+  width: 20rem;
   padding: 10px 20px;
   position: relative;
   top: 10px;
@@ -1541,7 +1540,7 @@ p:last-child {
   padding-left: 10px;
   margin-bottom: 0;
   padding-bottom: 0;
-  padding-top: 20px;
+  padding-top: 10px;
   font-size: 45px;
   font-weight: 600;
   width: 100%;
@@ -1561,5 +1560,6 @@ p:last-child {
     height: 140vh !important;
   }
 }
-.drop{
-  box-shadow: 2px 3px 22px -13px rgba(2,0,0,0.84)
+.drop {
+  box-shadow: 2px 3px 22px -13px rgba(2, 0, 0, 0.84);
+}
