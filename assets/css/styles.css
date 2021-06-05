@@ -276,6 +276,9 @@ body {
 .post-wrapper .post.med-icon .stem-overlay .icon {
   background-image: url(/assets/images/micro.png);
 }
+.post-wrapper .post.com-icon .stem-overlay .icon {
+  background-image: url(/assets/images/com.png);
+}
 .post-wrapper .post .stem-overlay {
   position: absolute;
   top: 0px;
