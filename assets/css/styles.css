@@ -258,12 +258,17 @@ body {
   background-image: url(/assets/images/ene.png);
   /* background: transparent; */
 }
-
 .post-wrapper .post.bitbucket-icon .stem-overlay .icon {
-  background-image: url(/assets/images/com.png);
+  background-image: url(/assets/images/datascience.png);
+}
+.post-wrapper .post.cloud-icon .stem-overlay .icon {
+  background-image: url(/assets/images/cloud.png);
 }
 .post-wrapper .post.m-icon .stem-overlay .icon {
   background-image: url(/assets/images/ckt.png);
+}
+.post-wrapper .post.vlsi-icon .stem-overlay .icon {
+  background-image: url(/assets/images/vlsi.png);
 }
 .post-wrapper .post.twitter-icon .stem-overlay .icon {
   background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/22043/twitter-icon.png);
