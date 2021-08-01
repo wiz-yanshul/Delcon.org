@@ -1122,6 +1122,10 @@ preloader
     padding-top: 0px !important;
     margin-top: 0px !important;
   }
+  footer div h2 {
+    margin-bottom: 30px;
+  }
+  
   .contact-form {
     margin-bottom: 45px;
   }
@@ -1135,7 +1139,7 @@ preloader
 
 footer {
   margin-top: 200px;
-  padding-top: 120px;
+  padding-top: 20px;
   background-image: url(../images/footer-bg.png);
   /* background-image: url(../images/plz); */
   background-repeat: no-repeat;
