@@ -1106,6 +1106,7 @@ hgroup {
   }
   .header-area .container {
     padding: 0px;
+    margin: 0px;
   }
 
   .header-area .menu-trigger {
