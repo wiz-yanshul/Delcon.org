@@ -1,4 +1,16 @@
 /*header*/
+.normalLogo{
+  display: none;
+}
+@media (max-width: 991px) {
+  .inverted{
+    display: none;
+    
+  }
+  .normalLogo {
+    display: block;
+  }
+}
 @media (max-width: 768px) {
   .header-area {
     margin-top: 12rem !important;
@@ -16,3 +28,4 @@
     height: 45% !important;
   }
 }
+
