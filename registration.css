@@ -311,6 +311,10 @@ header
 .background-header .nav li a.active {
   color: #fba70b !important;
 }
+.container{
+  padding: 0px !important;
+
+}
 @media screen and (max-width: 991px) {
   .main-nav .logo {
     color: #1e1e1e !important;
@@ -617,10 +621,8 @@ header
 .header-area.header-sticky .nav li a.active {
   color: #fba70b;
 }
-
 @media (max-width: 1200px) {
   .container{
-    min-width: 1200px;
     max-width: 1200px;
   }
   .header-area .main-nav .nav li {
