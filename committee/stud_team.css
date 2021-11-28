@@ -1,0 +1,42 @@
+.member .social {
+    position: absolute;
+    left: 0;
+    top: 120px;
+    right: 0;
+    opacity: 0;
+    transition: ease-in-out 0.2s;
+    text-align: center;
+  }
+.member:hover .social {
+    opacity: 1;
+    bottom: 15px;
+  }
+.member .social a {
+    transition: color 0.2s;
+    color: #111111;
+    margin: 0 3px;
+    padding-top: 7px;
+    border-radius: 50px;
+    width: 36px;
+    height: 36px;
+    background: #117073;
+    display: inline-block;
+    transition: ease-in-out 0.2s;
+    color: #fff;
+  }
+.member .social a:hover {
+    background: #111111;
+  }
+.member .social i {
+    font-size: 18px;
+  }
+
+.member-img:hover{
+    border: solid 8px #117073;
+    transition-duration: 0.2s;
+}
+
+.member:hover .member-img{
+    border: solid 8px #117073;
+    transition-duration: 0.2s;
+}
