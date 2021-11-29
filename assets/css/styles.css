@@ -1301,3 +1301,14 @@ th {
     font-size: 15px !important;
   }
 } */
+
+.pstdiv{
+  margin: 10px;
+}
+.pstli{
+  margin: 8px;
+}
+
+.pstli{
+  list-style-type: square;
+}
